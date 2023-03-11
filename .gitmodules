@@ -1,3 +1,6 @@
 [submodule "uia-2e"]
 	path = uia-2e
 	url = https://github.com/jhocking/uia-2e.git
+[submodule "uia-3e"]
+	path = uia-3e
+	url = https://github.com/jhocking/uia-3e.git
